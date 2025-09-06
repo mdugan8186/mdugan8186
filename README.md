@@ -26,9 +26,7 @@ Here are a few scraping projects that show my approach to clean code, modular de
 ---
 
 ## 📬 Contact
-- Email: **mdugan8186.work@gmail.com**  
-- GitHub: [@mdugan8186](https://github.com/mdugan8186)  
-- Portfolio Website: [mdugan8186.github.io/scraping-portfolio](https://mdugan8186.github.io/scraping-portfolio/)  
+- Email: **mdugan8186.work@gmail.com**   
 
 ---
 
