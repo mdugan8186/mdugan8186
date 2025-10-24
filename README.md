@@ -27,7 +27,7 @@ Here are a few scraping projects that show my approach to clean code, modular de
 
 ## 📬 Contact
 - **Email:** [mdugan8186.work@gmail.com](mailto:mdugan8186.work@gmail.com)  
-- **Fiverr:** [Hire Me for a Custom Web Scraper](https://www.fiverr.com/s/99aN6vA)
+- **Fiverr:** [Hire me for web scraping and custom scrapers](https://www.fiverr.com/mdugan8186)
 
 ---
 
