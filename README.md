@@ -26,7 +26,8 @@ Here are a few scraping projects that show my approach to clean code, modular de
 ---
 
 ## 📬 Contact
-- **Email:** [mdugan8186.work@gmail.com](mailto:mdugan8186.work@gmail.com)  
+- **Email:** [mdugan8186.work@gmail.com](mailto:mdugan8186.work@gmail.com)
+- **LinkIn:** [View my profile](https://www.linkedin.com/in/mike-dugan-8aa59b398)
 - **Fiverr:** [Hire me for web scraping and custom scrapers](https://www.fiverr.com/mdugan8186)
 - **Upwork:** [Hire me for web scraping and Pyhton automation](https://www.upwork.com/freelancers/~019a69129c6a8c707c?mp_source=share)
 
